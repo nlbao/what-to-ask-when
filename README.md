@@ -21,3 +21,9 @@ When dealing with complex situations, having a list of critical questions will h
 ## References
 0. <a name="ref_0"></a> https://github.com/yangshun/tech-interview-handbook/blob/master/contents/questions-to-ask.md
 1. <a name="ref_1"></a> [What Shape are You? - Brian](https://tynan.com/shapes)
+
+## Contribution Guide
+Any topics (not just career or technical ones) are welcome!\
+When adding new questions, please add their source to the ***References*** section. For example:
+* Quesion: What do you pay attention to? `[[1]](#ref_1)`
+* Reference: 1. `<a name="ref_1"></a>` [What Shape are You? - Brian](https://tynan.com/shapes)
