@@ -1,5 +1,7 @@
 # what-to-ask-when
 
+When dealing with complex situations, having a list of critical questions will help you gain useful information, clarify the context, figure out the pain points, and overcome biases.
+
 ## Career
 ### Changing jobs / teams / projects
 * Are you running away from something or running towards something? 
