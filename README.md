@@ -1,8 +1,11 @@
 # what-to-ask-when
 
 ## Career
+### Changing jobs / teams / projects
+* Are you running away from something or running towards something? 
+
 ### Job (Tech) Interviews
-* [yangshun/tech-interview-handbook/questions-to-ask](https://github.com/yangshun/tech-interview-handbook/blob/master/contents/questions-to-ask.md)
+* [yangshun/tech-interview-handbook/questions-to-ask](https://github.com/yangshun/tech-interview-handbook/blob/master/contents/questions-to-ask.md) [[0]](#ref_0)
 
 ### 1-1 with your Manager
 #### "To understand her perspective on how the project needs to come together" [[1]](#ref_1)
